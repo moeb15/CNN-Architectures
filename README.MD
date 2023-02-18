@@ -1,4 +1,4 @@
-# Implementations of CNN architectures from their respoective papers.  
+# Implementations of CNN architectures from their respective papers.  
 
 LeNet by LeCun et al. found in the paper 'Gradient-based learning applied to document recognition'   
 
